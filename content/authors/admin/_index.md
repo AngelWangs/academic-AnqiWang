@@ -15,7 +15,7 @@ role: Ph.D candiadate
 # Organizations/Affiliations
 organizations:
 - name: Tsuilab, Institute of Physics, Chinese Academy of Sciences
-  url: "tsuilab.iphy.ac.cn"
+  url: "http://tsuilab.iphy.ac.cn"
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include distributed robotics, mobile computing and programmable matter.
